@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "TimeConve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudent", "GradingStudent\GradingStudent.csproj", "{A9A1A45E-E229-4E95-8106-309CCAAEF6FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheHurdleRace", "TheHurdleRace\TheHurdleRace.csproj", "{AAF36784-7A8A-4DA0-86CA-233A505E808D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A9A1A45E-E229-4E95-8106-309CCAAEF6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9A1A45E-E229-4E95-8106-309CCAAEF6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9A1A45E-E229-4E95-8106-309CCAAEF6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF36784-7A8A-4DA0-86CA-233A505E808D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF36784-7A8A-4DA0-86CA-233A505E808D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF36784-7A8A-4DA0-86CA-233A505E808D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF36784-7A8A-4DA0-86CA-233A505E808D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
