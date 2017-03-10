@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "Diago
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{934D7F04-D293-4656-B660-787D25A546DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{0CC22CEB-5EF4-4C02-8964-109B5BA58AC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{934D7F04-D293-4656-B660-787D25A546DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{934D7F04-D293-4656-B660-787D25A546DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{934D7F04-D293-4656-B660-787D25A546DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC22CEB-5EF4-4C02-8964-109B5BA58AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC22CEB-5EF4-4C02-8964-109B5BA58AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC22CEB-5EF4-4C02-8964-109B5BA58AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC22CEB-5EF4-4C02-8964-109B5BA58AC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
