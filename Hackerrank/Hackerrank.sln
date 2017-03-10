@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "Compa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVeryBigSum", "AVeryBigSum\AVeryBigSum.csproj", "{08E2B80C-9EF9-4EEC-933F-33CC34C1E9B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{D0B51CDF-EA93-4CA3-95F9-BE6DBB54C08E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{08E2B80C-9EF9-4EEC-933F-33CC34C1E9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08E2B80C-9EF9-4EEC-933F-33CC34C1E9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08E2B80C-9EF9-4EEC-933F-33CC34C1E9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B51CDF-EA93-4CA3-95F9-BE6DBB54C08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B51CDF-EA93-4CA3-95F9-BE6DBB54C08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B51CDF-EA93-4CA3-95F9-BE6DBB54C08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B51CDF-EA93-4CA3-95F9-BE6DBB54C08E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
