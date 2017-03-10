@@ -18,10 +18,7 @@ class Solution
 
         int hour = Int32.Parse(timesStr[0]);
 
-        if (isPM && hour == 12)
-            hour = 0;
-        else if (!isPM && hour == 12)
-            hour = 0;
+        hour = hour == 12 ? 0 : hour;
 
         hour = isPM ? hour + 12 : hour;  
 
