@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
 class Solution
 { 
     static void Main(String[] args)
@@ -27,7 +24,6 @@ class Solution
         if (a2 > b2) { alice++; }
         else if (a2 < b2) { bob++; }
 
-        Console.WriteLine(alice + " " + bob);
-        Console.ReadLine();
+        Console.WriteLine(alice + " " + bob); 
     }
 }
