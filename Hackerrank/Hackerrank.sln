@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheHurdleRace", "TheHurdleR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonAppetit", "BonAppetit\BonAppetit.csproj", "{1EB3A528-64A5-4A46-A14F-D212B1290A8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockMerchant", "SockMerchant\SockMerchant.csproj", "{0E656704-AE16-4AF3-A092-1F3FFA2D7952}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{1EB3A528-64A5-4A46-A14F-D212B1290A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EB3A528-64A5-4A46-A14F-D212B1290A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EB3A528-64A5-4A46-A14F-D212B1290A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E656704-AE16-4AF3-A092-1F3FFA2D7952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E656704-AE16-4AF3-A092-1F3FFA2D7952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E656704-AE16-4AF3-A092-1F3FFA2D7952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E656704-AE16-4AF3-A092-1F3FFA2D7952}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
